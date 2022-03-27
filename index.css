@@ -39,7 +39,7 @@ http://scripts.sil.org/OFL
 	font-weight: 700;
 	font-display: swap;
 	src: url('SCoreDream-Bold.woff') format('woff');
-	unicode-range: U+0041-005A, U+0061-007A;
+	unicode-range: U+0041-005A, U+0061-007A, U+00C0-00FF;
 }
 
 @font-face {
@@ -47,7 +47,7 @@ http://scripts.sil.org/OFL
 	font-weight: 400;
 	font-display: swap;
 	src: url('SCoreDream-Regular.woff') format('woff');
-	unicode-range: U+0041-005A, U+0061-007A;
+	unicode-range: U+0041-005A, U+0061-007A, U+00C0-00FF;
 }
 
 @font-face {
@@ -55,7 +55,7 @@ http://scripts.sil.org/OFL
 	font-weight: 300;
 	font-display: swap;
 	src: url('SCoreDream-Light.woff') format('woff');
-	unicode-range: U+0041-005A, U+0061-007A;
+	unicode-range: U+0041-005A, U+0061-007A, U+00C0-00FF;
 }
 
 @font-face {
@@ -63,7 +63,7 @@ http://scripts.sil.org/OFL
 	font-weight: 100;
 	font-display: swap;
 	src: url('SCoreDream-Thin.woff') format('woff');
-	unicode-range: U+0041-005A, U+0061-007A;
+	unicode-range: U+0041-005A, U+0061-007A, U+00C0-00FF;
 }
 
 /***************** 숫자 *****************/
