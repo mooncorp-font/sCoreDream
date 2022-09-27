@@ -10,6 +10,7 @@ http://scripts.sil.org/OFL
 	font-weight: 700;
 	font-display: swap;
 	src: url('SCoreDream-Bold.woff') format('woff');
+	unicode-range: U+AC00-C2B9, U+C2BB-C559, U+C55B-D7A3;
 }
 
 @font-face {
@@ -17,6 +18,7 @@ http://scripts.sil.org/OFL
 	font-weight: 400;
 	font-display: swap;
 	src: url('SCoreDream-Regular.woff') format('woff');
+	unicode-range: U+AC00-C2B9, U+C2BB-C559, U+C55B-D7A3;
 }
 
 @font-face {
@@ -24,6 +26,7 @@ http://scripts.sil.org/OFL
 	font-weight: 300;
 	font-display: swap;
 	src: url('SCoreDream-Light.woff') format('woff');
+	unicode-range: U+AC00-C2B9, U+C2BB-C559, U+C55B-D7A3;
 }
 
 @font-face {
@@ -31,6 +34,7 @@ http://scripts.sil.org/OFL
 	font-weight: 100;
 	font-display: swap;
 	src: url('SCoreDream-Thin.woff') format('woff');
+	unicode-range: U+AC00-C2B9, U+C2BB-C559, U+C55B-D7A3;
 }
 
 /***************** 영문 *****************/
